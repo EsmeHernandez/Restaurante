@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_menu"
+        android:title="Menú"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_zonas"
+        android:title="Zonas"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_Eventos"
+        android:title="Eventos"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_Recomendaciones"
+        android:title="Recomendaciones"
+        app:showAsAction="never"
+        />
+</menu>
